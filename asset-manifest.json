@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bookbabble/static/css/main.70efe924.css",
-    "main.js": "/Bookbabble/static/js/main.cd24cda2.js",
+    "main.js": "/Bookbabble/static/js/main.c70a2b6f.js",
     "index.html": "/Bookbabble/index.html",
     "main.70efe924.css.map": "/Bookbabble/static/css/main.70efe924.css.map",
-    "main.cd24cda2.js.map": "/Bookbabble/static/js/main.cd24cda2.js.map"
+    "main.c70a2b6f.js.map": "/Bookbabble/static/js/main.c70a2b6f.js.map"
   },
   "entrypoints": [
     "static/css/main.70efe924.css",
-    "static/js/main.cd24cda2.js"
+    "static/js/main.c70a2b6f.js"
   ]
 }
